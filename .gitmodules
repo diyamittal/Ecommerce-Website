@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:diyamittal/ecomm-website.git
+[submodule "ecomm-server"]
+	path = ecomm-server
+	url = git@github.com:diyamittal/ecomm-server.git
